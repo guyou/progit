@@ -9,7 +9,7 @@ utilisateur a été peaufinée jusqu'à devenir aussi cohérente et facile à ut
 
 ## Plomberie et porcelaine ##
 
-Ce livre couvre l'utilisation de Git avec une trentaine de verbes comme `checkout`, `branch`, `remote` ... Mais, puisque Git était initialement une boîte à outils (N.d.T : Toolkit) pour VCS, plutôt d'un VCS complet et conviviale, il dispose de tout un ensemble d'action pour les tâches bas niveau qui étaient conçues pour être liées à la UNIX ou appelées depuis de scripts. Ces commandes sont dites commandes de "plomberie" (N.d.T "plumbing"), et les autres, plus conviviales sont appelées "porcelaines" (N.d.T : "porcelain").
+Ce livre couvre l'utilisation de Git avec une trentaine de verbes comme `checkout`, `branch`, `remote` ... Mais, puisque Git était initialement une boîte à outils (N.d.T : Toolkit) pour VCS, plutôt d'un VCS complet et convivial, il dispose de tout un ensemble d'action pour les tâches bas niveau qui étaient conçues pour être liées façon UNIX ou appelées depuis des scripts. Ces commandes sont dites commandes de "plomberie" (N.d.T "plumbing"), et les autres, plus conviviales sont appelées "porcelaines" (N.d.T : "porcelain").
 
 Les huit premiers chapitres du livre concernent presque exclusivement les commandes porcelaine. Par contre, dans ce chapitre, vous serez principalement confrontés aux commandes de plomberie bas niveaux, car elles vous donnent accès au fonctionnement interne de Git et aident à montrer comment et pourquoi Git fonctionne comme il le fait. Ces commandes ne sont pas faites pour être utilisées à la main sur ligne de commandes, mais sont plutôt utilisées comme briques de bases pour écrire de nouveaux outils et scripts personnalisés.
 
